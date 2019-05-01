@@ -760,7 +760,7 @@ ul.w3-ul li:last-child {
 }
 
 .w3-label {
-	color: #009688
+	color: #FFDE59
 }
 
 .w3-input:not(:valid)~.w3-validate {
@@ -772,16 +772,16 @@ ul.w3-ul li:last-child {
 	width: 100%;
 	color: #000;
 	border: 1px solid transparent;
-	border-bottom: 1px solid #009688
+	border-bottom: 1px solid #FFDE59
 }
 
 .w3-select select:focus {
 	color: #000;
-	border: 1px solid #009688
+	border: 1px solid #FFDE59
 }
 
 .w3-select option[disabled] {
-	color: #009688
+	color: #FFDE59
 }
 
 .w3-dropdown-click,
@@ -863,7 +863,7 @@ input[type=radio].w3-radio {
 
 input[type=checkbox].w3-check:checked+.w3-validate,
 input[type=radio].w3-radio:checked+.w3-validate {
-	color: #009688
+	color: #FFDE59
 }
 
 input[type=checkbox].w3-check:disabled+.w3-validate,
@@ -2050,7 +2050,7 @@ input[type=radio].w3-radio:disabled+.w3-validate {
 .w3-teal,
 .w3-hover-teal:hover {
 	color: #fff!important;
-	background-color: #009688!important
+	background-color: #FFDE59!important
 }
 
 .w3-yellow,
@@ -2218,7 +2218,7 @@ input[type=radio].w3-radio:disabled+.w3-validate {
 
 .w3-text-teal,
 .w3-hover-text-teal:hover {
-	color: #009688!important
+	color: #FFDE59!important
 }
 
 .w3-text-yellow,
@@ -2356,7 +2356,7 @@ input[type=radio].w3-radio:disabled+.w3-validate {
 
 .w3-border-teal,
 .w3-hover-border-teal:hover {
-	border-color: #009688!important
+	border-color: #FFDE59!important
 }
 
 .w3-border-yellow,
